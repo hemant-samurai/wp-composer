@@ -1,0 +1,7 @@
+/public/wp
+/vendor
+production-config.php
+local-config.php
+
+.*
+!.gitignore
